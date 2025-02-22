@@ -2,7 +2,9 @@ function App() {
 
   return (
     <>
-     <h1>This is solarix</h1>
+     <h1>This is solarix
+      Today is Saturday, 22 Feb 2024
+     </h1>
     </>
   )
 }
